@@ -13,3 +13,8 @@ to the elevation of the real citystreets of Oulu, but the meshes are joined, so 
 Minimum area for streets in this repo is four blocks, the focal point is always on the crossroads. The original street meshes 
 surrounding the blocks can be found from: 
 https://oulu3d.svn.beanstalkapp.com/oulu3dinfra_ydin/ 
+
+Map describing the areas:
+
+![alt tag](https://github.com/Plij/3D_citymodels/blob/master/areas_map-3.jpg)
+
