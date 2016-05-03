@@ -8,7 +8,7 @@ building can be found from subfolder /textures. Some building may contain more t
 for this repo in part is to have a version control for joining the materials and atlassing/updating the textures, to make it easier to export these models and create big scenes in Unity, UE4, Meshmoon etc. 
 
 The street meshes are named according to the areas (map.jpg). Streets have elevation that corresponds 
-to the elevation of the real citystreets of Oulu, but the meshes are joined, so that they can be used for terrain. 
+to the elevation of the real citystreets of Oulu, but the meshes are joined, so that they can be used for terrain, although it is recommended that you to do your own simple physics constraints for the terrain and building walls as some of the models  have quite high polygon count. 
 (Minimum area for streets in this repo is four blocks, the focal point is always on the crossroads.) The original street meshes 
 surrounding the blocks can be found from: 
 https://oulu3d.svn.beanstalkapp.com/oulu3dinfra_ydin/ 
