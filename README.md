@@ -1,5 +1,5 @@
 # 3D_citymodels
-Use Git large file storage (https://git-lfs.github.com/) before cloning this repo. This repo contains the work files blend of the buildings in virtual Oulu. 
+Use Git large file storage (https://git-lfs.github.com/) before cloning this repo. This repo contains the work files blend of the buildings in virtual Oulu.
 
 In this repo each building is its own object. Each building is on its designated area (map.jpg), 
 but the buildings area named based on the address they are on on the south-north streets e.g Isokatu, Kirkkokatu... 
@@ -12,6 +12,8 @@ to the elevation of the real citystreets of Oulu, but the meshes are joined, so 
 (Minimum area for streets in this repo is four blocks, the focal point is always on the crossroads.) The original street meshes 
 surrounding the blocks can be found from: 
 https://oulu3d.svn.beanstalkapp.com/oulu3dinfra_ydin/ 
+
+Materials are licensed under separate Creative Commons licenses for runtime exports and model source files, more infor at: http://www.ubioulu.fi/en/VirtualOulu
 
 Map describing the areas:
 
